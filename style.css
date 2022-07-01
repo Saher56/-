@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.num{
+ width:45px;
+  background-color:green;
+  color:red;
+}
+.top{
+  background-color:orangered;
+  text-align:center;
+  color:rgb(140,199,130)
+}
+#btn{
+  margin:30px 40%;
+  background-color:seagreen;
+  padding:30px;
+  color:gold;
+}
